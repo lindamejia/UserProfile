@@ -1,0 +1,21 @@
+.navTab {
+	cursor: pointer;
+}
+
+.navDropdown {
+	cursor: pointer;
+}
+
+.profilePhoneNumber {
+	display: flex;
+	flex-direction: row;
+}
+
+.phoneNumberCountryCode {
+	padding: 3% 0% 0% 7%;
+}
+
+.image{
+	height: 200px;
+	width: 300px;
+}
